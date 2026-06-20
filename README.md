@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rxth7" alt="rxth7" /></a> </p>
 
-- 🔭 I’m currently studying on **Bachelor of Computer Applications (BCA) Sri Bhuvanendra College, Karkala (Affiliated to Mangalore University)**
+- 🔭 I’m graduated on **Bachelor of Computer Applications (BCA) at Sri Bhuvanendra College, Karkala (Affiliated to Mangalore University)**
 
 - 🌱 I’m currently learning **Data Analytics, Power BI, Python for Data Analysis, React, Firebase, Prompt Engineering**
 
